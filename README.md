@@ -1,16 +1,27 @@
-### Hi there 👋
+# Profil Developer
 
-<!--
-**k31p/k31p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya
 
-Here are some ideas to get you started:
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi dalam **Web Development** dan **Back-End Development**. Dengan latar belakang yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kepakaran
+
+- **Web Development**: Berpengalaman dalam membuat website untuk monitoring dan administrasi.
+- **Back-End Development**: Memiliki keahlian dalam menggunakan Laravel, Codeigniter, NodeJS, dan Django 
+
+## Pencapaian
+
+- Juara 1 Lomba LKS Web Technologies Tingkat Kota Cimahi
+
+## Proyek dan Kontribusi
+
+Saya berkontribusi dalam website perusahaan serta beberapa projek yang ada pada perusahaan waktu saya PKL dahulu
+
+## Menghubungi Saya
+
+Untuk informasi lebih lanjut mengenai kontribusi atau pertanyaan, hubungi:
+
+- Email: [royblend@protonmail.com](mailto:royblend@protonmail.com)
+- LinkedIn: [https://www.linkedin.com/in/yobel-el-roy-doloksaribu/]([http://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yobel-el-roy-doloksaribu/))
+
+Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
