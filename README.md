@@ -22,6 +22,7 @@ Saya berkontribusi dalam website perusahaan serta beberapa projek yang ada pada 
 Untuk informasi lebih lanjut mengenai kontribusi atau pertanyaan, hubungi:
 
 - Email: [royblend@protonmail.com](mailto:royblend@protonmail.com)
-- LinkedIn: [https://www.linkedin.com/in/yobel-el-roy-doloksaribu/]([http://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yobel-el-roy-doloksaribu/))
+- LinkedIn: [https://www.linkedin.com/in/yobel-el-roy-doloksaribu/](https://www.linkedin.com/in/yobel-el-roy-doloksaribu/)
+- Instagram: [@xist_pre](https://www.instagram.com/xist_pre)
 
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
