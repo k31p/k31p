@@ -1,31 +1,32 @@
-# Profil Developer
+# Developer Profile 💻
 
-## Tentang Saya
+## About Me 📖
 
-Selamat datang di profil GitHub saya! Saya seorang mahasiswa dengan spesialisasi dalam **Web Development** dan **Back-End Development**. Dengan latar belakang yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
+Just like in the bio, a guy who can do anything but can't master it. Currently occupied as a student in a college and still figuring my own career. I have interest in Back-End Development and Mobile Development, but still not good at it.
 
-## Kepakaran
+## Capabilities 🤖
 
-- **Web Development**: Berpengalaman dalam membuat website untuk monitoring dan administrasi.
-- **Back-End Development**: Memiliki keahlian dalam menggunakan Laravel, Codeigniter, NodeJS, dan Django 
+- **Web Development**: Having some degree of experience in web development, and frameworks like Laravel, CodeIgniter, NodeJS, and Django. Also having experience using ReactJS.
+- **Back-End Development**: Got some experience on making APIs and Database handling
+- **Operating System**: Capable of using Windows and Linux (like: Arch, Fedora, or Debian).
 
-## Pencapaian
+## Achievements 🏆
 
-- Juara 1 Lomba LKS Web Technologies Tingkat Kota Cimahi
+- #1 Champion in LKS Web Technology in Cimahi City
 
-## Proyek dan Kontribusi
+## Contacts ☎️
 
-Saya berkontribusi dalam website perusahaan serta beberapa projek yang ada pada perusahaan waktu saya PKL dahulu
+For more informations, you can contact me with these links below:
 
-## Menghubungi Saya
+- 🔗 Email: [royblend@protonmail.com](mailto:royblend@protonmail.com)
+- 🔗 LinkedIn : [https://www.linkedin.com/in/yobel-el-roy-doloksaribu/](https://www.linkedin.com/in/yobel-el-roy-doloksaribu/)
+- 🔗 Instagram: [@xist_pre](https://www.instagram.com/xist_pre)
+- 🔗 Discord: okayjamal
 
-Untuk informasi lebih lanjut mengenai kontribusi atau pertanyaan, hubungi:
+## Games 🎮
 
-- Email: [royblend@protonmail.com](mailto:royblend@protonmail.com)
-- LinkedIn: [https://www.linkedin.com/in/yobel-el-roy-doloksaribu/](https://www.linkedin.com/in/yobel-el-roy-doloksaribu/)
-- Instagram: [@xist_pre](https://www.instagram.com/xist_pre)
+I also play games, just some casual ones. Feel free to add me as friend with the following username/id:
+- Honkai: Star Rail: 808016699
 
-Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
-
-## Links
+## Links 🌐
 - Profile picture: [https://wall.alphacoders.com/big.php?i=1354763](https://wall.alphacoders.com/big.php?i=1354763)
