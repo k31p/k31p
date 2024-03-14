@@ -26,3 +26,6 @@ Untuk informasi lebih lanjut mengenai kontribusi atau pertanyaan, hubungi:
 - Instagram: [@xist_pre](https://www.instagram.com/xist_pre)
 
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
+
+## Links
+- Profile picture: [https://wall.alphacoders.com/big.php?i=1354763](https://wall.alphacoders.com/big.php?i=1354763)
